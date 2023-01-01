@@ -1,0 +1,13 @@
+ Volume in drive C is Win10
+ Volume Serial Number is F2F9-48B2
+
+ Directory of C:\Users\Nora Dimitrova\Desktop\All_New\TASK_WITH_JENKINS\Jenkins_Project
+
+01.01.2023 £.  21:51    <DIR>          .
+01.01.2023 £.  21:51    <DIR>          ..
+01.01.2023 £.  21:23                17 README.md
+01.01.2023 £.  21:14             1ÿ020 Task3.class
+01.01.2023 £.  16:16               275 Task3.java
+01.01.2023 £.  21:51                 0 text.txt
+               4 File(s)          1ÿ312 bytes
+               2 Dir(s)   2ÿ454ÿ614ÿ016 bytes free
